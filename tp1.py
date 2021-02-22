@@ -1,4 +1,4 @@
-Texte="bonjour"
+Texte="Ce ci est un Test"
 alphabet="abcdefghijklmnopqrstuvwxyz"
 key=5
 TexteC=[]
