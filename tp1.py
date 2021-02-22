@@ -1,6 +1,6 @@
 Texte="Ce ci est un Test"
 alphabet="abcdefghijklmnopqrstuvwxyz"
-key=5
+key=10
 TexteC=[]
 for c in Texte:
 	y=alphabet.find(c)+key
